@@ -13,7 +13,3 @@
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,linux,discord,docker,go,git,nextjs,nodejs,react,tailwind,vscode,gcp,express,firebase,github,graphql,heroku,idea,jest,mongodb,nestjs,netlify,postgres,redux,vercel,prisma"/>
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertzinboss&show_icons=true&locale=en&layout=compact" alt="robertzinboss" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertzinboss&show_icons=true&locale=en" alt="robertzinboss" /></p>
