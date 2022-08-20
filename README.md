@@ -13,5 +13,3 @@
     <img src="https://skillicons.dev/icons?i=rust,go,ts,html,css,git,tailwind,react,redux,nextjs,nodejs,nestjs,graphql,express,firebase,mongodb,postgres,jest,docker,gcp,netlify,vercel,linux,github,discord,idea,vscode"/>
   </a>
 </p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=robertzinBOSS&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
